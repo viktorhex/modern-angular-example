@@ -1,0 +1,49 @@
+{
+  "hash": "10d919c6",
+  "configHash": "8f6f7fb5",
+  "lockfileHash": "187fa29f",
+  "browserHash": "95a29414",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+core@19.2.10_rxjs@7.8.2_zone.js@0.15.0/node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "3ca73448",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+platform-browser@19.2.10_@angular+animations@19.2.10_@angular+common@19.2.10_@_5070d15de82b002f6d5119c993e2ab17/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "89a428f7",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+common@19.2.10_@angular+core@19.2.10_rxjs@7.8.2_zone.js@0.15.0__rxjs@7.8.2/node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "83f37d6c",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+router@19.2.10_@angular+common@19.2.10_@angular+core@19.2.10_rxjs@7.8.2_zone.j_18c655dba1d4e18ee9293c90093eae07/node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "95e74b4b",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+forms@19.2.10_@angular+common@19.2.10_@angular+core@19.2.10_rxjs@7.8.2_zone.js_d5e816ad0d236f67b4ff0f164e723286/node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "0ba60fbb",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3M5ZY2EL": {
+      "file": "chunk-3M5ZY2EL.js"
+    },
+    "chunk-DK4R4E7C": {
+      "file": "chunk-DK4R4E7C.js"
+    },
+    "chunk-5AOIV5SB": {
+      "file": "chunk-5AOIV5SB.js"
+    }
+  }
+}
